@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm AJ 👋
 
-<!--
-**ajamal28/ajamal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend-Focused Software Developer
 
-Here are some ideas to get you started:
+I'm a UK-based software developer specialising in PHP, Symfony and e-commerce applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and maintain production systems, develop new features, troubleshoot live incidents and enjoy solving challenging technical problems.
+
+### 🛠️ Tech Stack
+- **Backend:** PHP 8, Symfony, Shopware 6
+- **Database:** MySQL, Doctrine
+- **Frontend:** JavaScript, Twig, HTML, CSS
+- **Tools:** Git, Linux, Composer, PHPUnit
+
+### 🚀 Currently Building
+
+**Culinary Compass** — An API-first meal-planning platform built with Symfony.
+
+The project is helping me develop my skills in:
+- RESTful API design
+- Automated testing
+- Software architecture
+- CI/CD and cloud deployment
+- AI integration and mobile development (planned)
+
+### 📚 Currently Learning
+
+- Cloud engineering (AWS and Docker)
+- Application security (AppSec)
+- Data structures and algorithms
+- System design
+
+### 🎯 My Focus
+
+Building reliable, maintainable software while expanding my skills in backend engineering, cloud infrastructure and application security.
