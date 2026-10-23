@@ -1,35 +1,15 @@
 # Hi, I'm AJ 👋
 
-### Backend-Focused Software Developer
+### Backend Software Developer | PHP · Symfony 
 
-I'm a UK-based software developer specialising in PHP, Symfony and e-commerce applications.
+Cambridgeshire-based software developer specialising in backend engineering, e-commerce and production systems. Experienced in building maintainable applications, developing APIs, implementing features and troubleshooting complex technical issues.
 
-I build and maintain production systems, develop new features, troubleshoot live incidents and enjoy solving challenging technical problems.
+###  Tech Stack
 
-### 🛠️ Tech Stack
-- **Backend:** PHP 8, Symfony, Shopware 6
-- **Database:** MySQL, Doctrine
-- **Frontend:** JavaScript, Twig, HTML, CSS
-- **Tools:** Git, Linux, Composer, PHPUnit
+[![Tech Stack](https://skillicons.dev/icons?i=php,symfony,mysql,js,html,css,linux,git,docker,aws&perline=10)](https://skillicons.dev)
 
-### 🚀 Currently Building
+**Also experienced with:** Shopware 6 · Twig · Doctrine ORM · Composer · PHPUnit
 
-**Culinary Compass** — An API-first meal-planning platform built with Symfony.
+### Featured Project
 
-The project is helping me develop my skills in:
-- RESTful API design
-- Automated testing
-- Software architecture
-- CI/CD and cloud deployment
-- AI integration and mobile development (planned)
-
-### 📚 Currently Learning
-
-- Cloud engineering (AWS and Docker)
-- Application security (AppSec)
-- Data structures and algorithms
-- System design
-
-### 🎯 My Focus
-
-Building reliable, maintainable software while expanding my skills in backend engineering, cloud infrastructure and application security.
+**[Culinary Compass](https://github.com/ajamal28/culinary-compass-platform)** — An API-first meal-planning platform built with Symfony, focusing on clean architecture, automated testing and scalable backend services.
